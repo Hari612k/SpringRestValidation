@@ -36,6 +36,7 @@ This is a Spring Boot project demonstrating input validation using DTOs (`@Valid
     git clone https://github.com/Hari612k/SpringRestValidation.git
     cd SpringRestValidation
 
+2. Update Oracle DB Configuration
 
 In src/main/resources/application.properties, configure:
 
