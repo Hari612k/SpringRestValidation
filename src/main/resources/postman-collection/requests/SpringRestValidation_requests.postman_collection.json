@@ -1,9 +1,7 @@
 {
 	"info": {
-		"_postman_id": "51444894-0675-4ba1-849f-0d3216b59ce4",
 		"name": "SpringRestValidation",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "30853213"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
