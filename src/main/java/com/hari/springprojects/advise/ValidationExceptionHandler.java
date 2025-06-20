@@ -24,7 +24,7 @@ public class ValidationExceptionHandler {
 		return errorMap;
 	}
 	
-	@ResponseStatus(code = HttpStatus.INTERNAL_SERVER_ERROR)
+	@ResponseStatus(code = HttpStatus.NOT_FOUND)
 	@ExceptionHandler(CustomerNotFoundException.class)
 	public Map<String, String> handleCustomerServiceException(CustomerNotFoundException ex){
 		Map<String, String> errorMap = new HashMap<>();
